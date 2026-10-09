@@ -1,8 +1,8 @@
 # The Three Types of Modern Women and How to Fall in Love With Them: A Bitcoin and Blockchain Analogy
 
+* **AI Usage:** 99% (ChatGPT, Gemini, Claude)[cite: 1]
 * **Compiled By:** Hamza Sulyman (suahamza1@gmail.com)[cite: 1]
 * **Date:** 09/October/2026[cite: 1]
-* **AI Usage:** 99% (ChatGPT, Gemini, Claude)[cite: 1]
 
 ---
 
@@ -10,7 +10,7 @@
 
 One of the persistent mistakes people make in love is assuming that the person they love must first become more available, less ambitious, less guarded, or more receptive before a meaningful relationship can exist[cite: 1]. But people do not enter relationships as empty spaces; they arrive with histories, commitments, ambitions, habits, and entire systems of meaning already operating within their lives[cite: 1].
 
-Borrowing from systems engineering concepts like *The Long Game*, *The Two Threads of Attention*, and *Proof of Movement*, this paper proposes a different approach: a form of love that accounts for the architecture of another person's life instead of treating it as a problem to solve[cite: 2].
+Drawing upon concepts explored across separate frameworks—including *The Long Game*, *The Two Threads of Attention*, and *Proof of Movement*—this paper proposes a different approach: a form of love that accounts for the architecture of another person's life instead of treating it as a problem to solve[cite: 2].
 
 ---
 
